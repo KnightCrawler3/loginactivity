@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@mipmap/sell"
+        android:id="@+id/main"        />
+
+    <item android:title="Profile"
+        android:id="@+id/profile"        />
+
+    <item android:title="Buy"
+        android:id="@+id/buy"        />
+
+    <item android:title="Sell"
+        android:id="@+id/sell"        />
+
+    <item android:title="Exchange"
+        android:id="@+id/exchange"        />
+
+
+
+
+
+    <group android:id="@+id/group_settings_id">
+
+        <item android:title="Settings"
+            android:id="@+id/settings"
+            />
+        <item android:title="Help"
+            android:id="@+id/help"
+            />
+        <item android:title="About"
+            android:id="@+id/about"
+            />
+        <item
+            android:id="@+id/signout"
+            android:title="Sign Out"
+            />
+    </group>
+
+</menu>

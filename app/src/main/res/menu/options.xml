@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/menu_item"
+        android:showAsAction=""
+        android:icon="@mipmap/sell"
+        android:title="Settings"
+        />
+    <item
+        android:id="@+id/menu_item2"
+        android:showAsAction=""
+        android:title="About"
+        />
+    <item
+        android:id="@+id/menu_item3"
+        android:showAsAction=""
+        android:title="Help"
+        />
+    <item
+        android:id="@+id/menu_item4"
+        android:showAsAction=""
+        android:title="Sign Out"
+        />
+</menu>

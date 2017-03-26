@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "403506989607",
+    "firebase_url": "https://basketballscore-ede3a.firebaseio.com",
+    "project_id": "basketballscore-ede3a",
+    "storage_bucket": "basketballscore-ede3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403506989607:android:b0a1b92bd56358db",
+        "android_client_info": {
+          "package_name": "com.example.android.basketballscore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403506989607-k3iic9d0id40lvj7rpmgfh2ubo4l291j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.basketballscore",
+            "certificate_hash": "fe94754e1f76e85c479c15dec0ece73c38ac04c7"
+          }
+        },
+        {
+          "client_id": "403506989607-oq3do61efvt71jpk71vi36an47bpjesk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEDfOEMk1whrcYj0nLP6K7tcaGNqj4NIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403506989607-oq3do61efvt71jpk71vi36an47bpjesk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403506989607:android:c7dee5e5fcb8e149",
+        "android_client_info": {
+          "package_name": "com.example.android.loginactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403506989607-oq3do61efvt71jpk71vi36an47bpjesk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEDfOEMk1whrcYj0nLP6K7tcaGNqj4NIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
